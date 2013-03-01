@@ -1,0 +1,297 @@
+Cmp-Mod V01 Created by CvPcb (2012-01-19 BZR 3256)-stable date = 2/27/2013 1:53:38 PM
+
+BeginCmp
+TimeStamp = /512DBE9A;
+Reference = P1;
+ValeurCmp = SMART;
+IdModule  = PinArray7x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBF3A;
+Reference = P2;
+ValeurCmp = SMART;
+IdModule  = PinArray7x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBF45;
+Reference = P3;
+ValeurCmp = SMART;
+IdModule  = PinArray7x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBF4F;
+Reference = P4;
+ValeurCmp = SMART;
+IdModule  = PinArray7x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBA84;
+Reference = P5;
+ValeurCmp = DUMB;
+IdModule  = PinArray13x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBF2E;
+Reference = P6;
+ValeurCmp = DUMB;
+IdModule  = PinArray13x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBF60;
+Reference = P7;
+ValeurCmp = DUMB;
+IdModule  = PinArray13x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBF6A;
+Reference = P8;
+ValeurCmp = DUMB;
+IdModule  = PinArray13x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DC002;
+Reference = P9;
+ValeurCmp = SMART;
+IdModule  = PinArray7x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DC000;
+Reference = P10;
+ValeurCmp = SMART;
+IdModule  = PinArray7x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBFFF;
+Reference = P11;
+ValeurCmp = SMART;
+IdModule  = PinArray7x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBFFE;
+Reference = P12;
+ValeurCmp = SMART;
+IdModule  = PinArray7x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DC003;
+Reference = P13;
+ValeurCmp = DUMB;
+IdModule  = PinArray13x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DC001;
+Reference = P14;
+ValeurCmp = DUMB;
+IdModule  = PinArray13x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBFFD;
+Reference = P15;
+ValeurCmp = DUMB;
+IdModule  = PinArray13x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBFFC;
+Reference = P16;
+ValeurCmp = DUMB;
+IdModule  = PinArray13x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DC029;
+Reference = P17;
+ValeurCmp = SMART;
+IdModule  = PinArray7x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DC02B;
+Reference = P18;
+ValeurCmp = SMART;
+IdModule  = PinArray7x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DC02C;
+Reference = P19;
+ValeurCmp = SMART;
+IdModule  = PinArray7x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DC02D;
+Reference = P20;
+ValeurCmp = SMART;
+IdModule  = PinArray7x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DC028;
+Reference = P21;
+ValeurCmp = DUMB;
+IdModule  = PinArray13x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DC02A;
+Reference = P22;
+ValeurCmp = DUMB;
+IdModule  = PinArray13x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DC02E;
+Reference = P23;
+ValeurCmp = DUMB;
+IdModule  = PinArray13x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DC02F;
+Reference = P24;
+ValeurCmp = DUMB;
+IdModule  = PinArray13x2/90;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE22;
+Reference = PCB1;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE21;
+Reference = PCB2;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE20;
+Reference = PCB3;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE1F;
+Reference = PCB4;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE1E;
+Reference = PCB5;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE1D;
+Reference = PCB6;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE17;
+Reference = PCB7;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE18;
+Reference = PCB8;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE19;
+Reference = PCB9;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE1A;
+Reference = PCB10;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE1B;
+Reference = PCB11;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE1C;
+Reference = PCB12;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE16;
+Reference = PCB13;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE15;
+Reference = PCB14;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE14;
+Reference = PCB15;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE13;
+Reference = PCB16;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE12;
+Reference = PCB17;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DBE11;
+Reference = PCB18;
+ValeurCmp = PCB;
+IdModule  = PCB;
+EndCmp
+
+EndListe
